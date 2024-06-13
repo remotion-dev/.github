@@ -13,4 +13,4 @@
 Here you'll find the source code as well as various examples and helpers.  
 You can [contribute](https://github.com/remotion-dev/remotion/blob/main/CONTRIBUTING.md) to Remotion as well!
 
-Also check out our [website](https://www.remotion.dev), [Discord](https://remotion.dev/discord), [X](https:/x.com/remotion) and [Instagram](https://instagram.com/remotion)!
+Also check out our [website](https://www.remotion.dev), [Discord](https://remotion.dev/discord), [X](https://x.com/remotion) and [Instagram](https://instagram.com/remotion)!
